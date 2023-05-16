@@ -18,6 +18,9 @@ img{
   border-color: #70A288;
   border-width: 10px;
 }
+iframe{
+border: dashed;
+}
 ul{
   list-style-type: none;
   text-align: center;
