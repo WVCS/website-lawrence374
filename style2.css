@@ -1,0 +1,43 @@
+body{
+  background-color: #DE6B48;
+}
+h1{
+  color: #5E4352;
+  font-size: 500%;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  text-decoration color: #28A7FB0
+}
+p{
+  color: #04395E;
+  font-size: 400%;
+}
+img{
+  width: 500px;
+  border-style: dashed;
+  border-color: #1F487E;
+  border-width: 20px;
+}
+iframe{
+  width: 400px;
+  border-style: solid;
+  border-color: #829CBC;
+  border-width: 70px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #0F7173;
+  font-family: "Georgia", Serif;
+  border: dashed;
+}
+li a:hover{
+  background-color: #0F7173;
+  color: black;
+}
