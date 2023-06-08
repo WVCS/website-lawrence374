@@ -1,0 +1,44 @@
+body{
+  background-color: #DE6B48;
+}
+h1{
+  color: #5E4352;
+  font-size: 500%;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  text-decoration color: #28A7FB0
+}
+p{
+  color: #04395E;
+  font-size: 400%;
+}
+body{
+  background-color: #DE6B48;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #294D4A;
+  font-family: "Georgia", Serif;
+  border: solid;
+}
+li a:hover{
+  background-color: #294D4A;
+  color: black;
+}
+img{
+  width: 600px;
+  border-style: solid;
+  border-color: #87BBA2;
+  border-width: 20px;
+}
+p{
+  color: #04395E;
+  font-size: 400%;
+}
